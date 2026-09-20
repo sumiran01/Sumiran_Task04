@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    margin: 10vh 25vh 10vh 25vh;
+}
+.img_div{
+    width: 100vh;
+}
+.img{
+    width: 50vh;
+    height: 50vh;
+    border-radius: 50%;  
+}
+.btn{
+    background: linear-gradient(to right, #ff105f, #ffad06);
+    background-color: #ffad06;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
